@@ -27,7 +27,7 @@ linkedin_username: veselka-marinova-006b473b
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-clean-blog
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
