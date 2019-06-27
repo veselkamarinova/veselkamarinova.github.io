@@ -57,7 +57,18 @@ The same way I use a picture that is published on the internet: \![Bewick's Wren
 > [Photo](https://www.flickr.com/photos/beckymatsubara/48103080941/in/photostream/) by Becky Matsubara, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
 
 But writing text and formatting it is not easy without using blockquotes, using lists, and paragraphs.
-To create a block quote, all you have to do is preface a line with the greater than caret (>). For example: "My first step of coding is very difficult." Blockquotes can contain multiple paragraphs. Add a > on the blank lines between the paraghraphs. The blockquotes can be nested. Then add >> in front of the paragraph you want to nest.
+To create a block quote, all you have to do is preface a line with the greater than caret (>). For example:
+
+> My first step of coding is very difficult.
+
+Blockquotes can contain multiple paragraphs. Add a > on the blank lines between the paraghraphs. The blockquotes can be nested. Then add >> in front of the paragraph you want to nest. Example:
+
+> This is the first paragraph in the blockquote.
+>
+> This is the second paragraph.
+>
+>> This is a nested quote.
+
 The list we create when we start each line with a hyphen or an asterisk, followed by a space. List items can be nested. Let's try:
 
 * Bullet 1
